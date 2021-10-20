@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vasanth7V
 - 👀 I’m interested in Bug Hunting
-- 🌱 I’m currently learning Wen penetration 
+- 🌱 I’m currently learning Web penetration 
 - 💞️ I’m looking to collaborate on Mind
 - 📫 How to reach me linkedIn https://www.linkedin.com/in/vasanth-palani-0b1671205
 
